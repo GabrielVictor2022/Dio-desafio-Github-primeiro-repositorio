@@ -1,1 +1,1 @@
-Este arquivo terá anotações relevantes para o estudo de git 
+Este arquivo terá anotações relevantes para o estudo de git.
